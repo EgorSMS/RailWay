@@ -1,0 +1,25 @@
+﻿@{ ViewData["Title"] = "Информация об остановках"; }
+@model List<Cities>
+
+<form asp-antiforgery="true" method="get">
+    <div id="m">
+        <div class="container">
+            <div class="row centered">
+                <h1>Информация об остановках</h1>
+                <table>
+                    <tr>
+                        <td>
+                            @foreach (Cities cities in Model)
+                             {
+                                <p class="label-primary">@($"{cities.Name} {cities.PlatformCount}") <a class="alert-dark" href="/Home/DeleteCity?id=@cities.ID_City">Удалить</a><br /></p>
+                             }
+                        </td>
+                        <td>
+                            <button asp-action="AddCity" class="twice__button">Добавить остановку</button>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+</form>

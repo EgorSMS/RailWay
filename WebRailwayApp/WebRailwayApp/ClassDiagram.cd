@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WebRailwayApp.Controllers.AuthController">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAIAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\AuthController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebRailwayApp.Controllers.HomeController">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAEQEQAAMEABQAAoIAIABEAEAgAAEABQKCAqA=</HashCode>
+      <FileName>Controllers\HomeController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebRailwayApp.Models.BrigadeDisplay">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAIAAAAAAAAAAAIAAAAAEAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Models\BrigadeDisplay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebRailwayApp.Models.Cities">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Cities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebRailwayApp.Models.Doljnost">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQACAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Doljnost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebRailwayApp.Models.LoginModel">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAQAAAAAAA=</HashCode>
+      <FileName>Models\LoginModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebRailwayApp.Models.Role">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Models\Role.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebRailwayApp.Models.Route">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAACAAAAAAAAAAAAAEAAIAAAAgAAAAAA=</HashCode>
+      <FileName>Models\Route.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebRailwayApp.Models.RouteDisplay">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAgAAAAAAAJAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Models\RouteDisplay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebRailwayApp.Models.staff">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAhBAAAAACAAEAAAAQIBAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\staff.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebRailwayApp.Models.staffDisplay">
+    <Position X="3.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\staffDisplay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebRailwayApp.Models.StaffOfTeam">
+    <Position X="5.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Models\StaffOfTeam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebRailwayApp.Models.Stops">
+    <Position X="7" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAIAAAEAAAQAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Models\Stops.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebRailwayApp.Models.TimeTable">
+    <Position X="10.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAIAAAAAAAAAAAAAAIAAAAAAgAQAAAA=</HashCode>
+      <FileName>Models\TimeTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebRailwayApp.Models.TimeTableDisplay">
+    <Position X="12.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAIQAAAAAAAAAABABAAAAAkCAASAAAABAQoAA=</HashCode>
+      <FileName>Models\TimeTableDisplay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebRailwayApp.Models.Train">
+    <Position X="14.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAACAAAQAEAA=</HashCode>
+      <FileName>Models\Train.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebRailwayApp.Models.trainDisplay">
+    <Position X="8.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\trainDisplay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebRailwayApp.Models.TypeOfTrain">
+    <Position X="5.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAQCAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Models\TypeOfTrain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebRailwayApp.Models.User">
+    <Position X="8.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAQAgBAAAAACAAEAAAAQABAAIAAACAAAQCAAAAAA=</HashCode>
+      <FileName>Models\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebRailwayApp.Models.userDisplay">
+    <Position X="3.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Models\userDisplay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebRailwayApp.RailwayDBContext">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAhAAAAAAAAAAAAEEAAIQAAAABAAAAAAAAAAAAAECA=</HashCode>
+      <FileName>RailwayDBContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

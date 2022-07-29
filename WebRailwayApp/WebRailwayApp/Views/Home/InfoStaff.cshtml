@@ -1,0 +1,29 @@
+﻿@{ ViewData["Title"] = "Информация о сотрудниках"; }
+@model staffDisplay
+
+<form asp-antiforgery="true" method="get">
+    <div id="m">
+        <div class="container">
+            <div class="row centered">
+                <h1>Информация о сотрудниках</h1>
+                <table>
+                    <tr>
+                        <td>
+                            @foreach (staff staff in Model.staffs)
+                             {
+                                <p class="label-primary">
+                                    @($"{staff.Surname} {staff.Name} {staff.Firdname}") <a class="alert-dark" href="/Home/DeleteStaff?id=@staff.ID_Staff">Удалить</a><br/>
+                                    @Model.doljnosts.FirstOrDefault(d => d.ID_Doljnost == staff.ID_Doljnost).NameOfDolj <br/>
+                                </p>
+                             }
+                        </td>
+
+                        <td>
+                            <button asp-action="AddStaff" class="twice__button">Добавить сотрудника</button>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+</form>

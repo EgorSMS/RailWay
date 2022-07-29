@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Расписание";
+}
+@model TimeTableDisplay
+<form asp-antiforgery="true" method="get">
+    <div id="m">
+        <div class="container">
+            <div class="row centered">
+                <h1>Расписания</h1>
+                <table>
+                    <tr>
+                        <td>
+                            @foreach (TimeTable timeTable in Model.timeTables)
+                             {
+                                var route = Model.routes.FirstOrDefault(r => r.ID_Route == timeTable.ID_Route);
+                                <p class="label-primary">@($"{Model.cities.FirstOrDefault(c => c.ID_City == route.ID_City_Departure).Name}: П.{route.PlatformDeparture} ({timeTable.DateTimeDeparted.ToString("dd.MM.yyyy HH.mm")}) -> {Model.cities.FirstOrDefault(c => c.ID_City == route.ID_City_Arrival).Name}: П.{route.PlatformArrival} ({timeTable.DateTimeArrived.ToString("dd.MM.yyyy HH.mm")}), Поезд №{Model.trains.FirstOrDefault(t => t.ID_Train == timeTable.ID_Train).NumberOfTrain}") <a class="alert-dark" href="/Home/DeleteTimeTable?id=@timeTable.ID_TimeTable">Удалить</a> <a href="/Home/AddStopTimeTable?id=@timeTable.ID_TimeTable">Редактирование остановок</a><br/></p>
+                             }
+                        </td>
+
+                        <td>
+                            <button asp-action="AddTimeTable" class="twice__button">Добавить расписание</button>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+</form>

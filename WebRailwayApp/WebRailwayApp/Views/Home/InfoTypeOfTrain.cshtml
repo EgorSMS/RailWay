@@ -1,0 +1,25 @@
+﻿@{ ViewData["Title"] = "Информация о видах поезда"; }
+@model List<TypeOfTrain>
+
+<form asp-antiforgery="true" method="get">
+    <div id="m">
+        <div class="container">
+            <div class="row centered">
+                <h1>Информация о видах поезда</h1>
+                <table>
+                    <tr>
+                        <td>
+                            @foreach (TypeOfTrain typeOfTrain in Model)
+                             {
+                                <p class="label-primary">@($"{typeOfTrain.Name} {typeOfTrain.MaxSpeed} {typeOfTrain.Capacity}") <a class="alert-dark" href="/Home/DeleteTypeOfTrain?id=@typeOfTrain.ID_TypeOfTrain">Удалить</a><br /></p>
+                             }
+                        </td>
+                        <td>
+                            <button asp-action="AddTypeOfTrain" class="twice__button">Добавить вид поезда</button>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+</form>

@@ -1,0 +1,35 @@
+﻿@{ 
+    ViewData["Title"] = "Добавить поезд";
+}
+@model trainDisplay
+<form asp-action="AddTrain" asp-controller="Home" asp-antiforgery="true" method="post">
+    <div class="validation" asp-validation-summary="ModelOnly"></div>
+    <div id="m">
+        <div class="container">
+            <div class="row centered">
+                <h1>Добавление поезда</h1>
+                <table>
+                    <tr>
+                        <td><h4>Тип поезда</h4></td>
+                        <td>
+                            <select asp-for="train.ID_TypeOfTrain">
+                                @foreach (TypeOfTrain typeOfTrain in Model.typeOfTrains)
+                                 {
+                                    <option value="@typeOfTrain.ID_TypeOfTrain">@typeOfTrain.Name</option>
+                                 }
+                            </select>
+                        </td>
+                        <td><h4>Номер маршрута</h4></td>
+                        <td>
+                            <input type="text" asp-for="train.NumberOfTrain" class="form__input" placeholder=" "><br />
+                            <span asp-validation-for="train.NumberOfTrain"></span>
+                        </td>
+                    </tr>
+
+                </table>
+
+                <button type="submit" class="add_button">Добавить</button>
+            </div>
+        </div>
+    </div>
+</form>

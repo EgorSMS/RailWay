@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"] - Railway</title>
+    <link rel="stylesheet" href="~/css/bootstrap.css">
+    <link rel="stylesheet" href="~/css/fontawesome.min.css">
+    <link rel="stylesheet" href="~/css/main.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="~/Home/Index">Railway</a>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="active"><a href="~/Home/AddRoute">Маршрут</a></li>
+                    <li class="active"><a href="~/Home/InfoTrain">Поезд </a></li>
+                    <li class="active"><a href="~/Home/InfoTypeOfTrain">Тип поезда</a></li>
+                    <li class="active"><a href="~/Home/InfoCity">Остановки</a></li>
+                    <li class="active"><a href="~/Home/InfoStaff">Сотрудники</a></li>
+                    <li class="active"><a href="~/Home/StaffOfTeam">Бригада</a></li>
+                    <li class="active"><a href="~/Home/TimeTable">Расписание</a></li>
+                    <li class="active"><a href="~/Home/InfoUser">Пользователи</a></li>
+                    <li class="active"><a href="~/Home/Logout">Выход</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div id="headerwrap">
+        <div class="container">
+            <div class="row centered">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <h1>Railway</h1>
+                    <h2>Железные дороги</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="m">
+        <div class="container">
+            <div class="row centered">
+                <main role="main" class="pb-3">
+                    @RenderBody()
+                </main>
+            </div>
+        </div>
+    </div>
+
+    <footer id="f">
+        <p>© 2022 Railway</p>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
+
+    <script>
+        config = {
+            enableTime: true,
+            dateFormat: "d-m-Y H:i",
+            // altInput: true,
+            // altFormat: "F j, Y (h:S K)",
+            // dateFormat: "Y-m-d",
+        }
+        flatpickr("input[type=datetime-local]", config);
+
+    </script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+    <script src="~/js/bootstrap.min.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

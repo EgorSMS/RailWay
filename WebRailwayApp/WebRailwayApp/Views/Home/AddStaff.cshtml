@@ -1,0 +1,81 @@
+﻿@{ ViewData["Title"] = "Добавить сотрудника"; }
+@model staffDisplay
+
+<form asp-action="AddStaff" asp-controller="Home" asp-antiforgery="true" method="post">
+    <div class="validation" asp-validation-summary="ModelOnly"></div>
+    <div id="m">
+        <div class="container">
+            <div class="row centered">
+                <h1>Добавление сотрудника</h1>
+                <table>
+                    <tr>
+                        <td><h4>Фамилия</h4></td>
+                        <td>
+                            <input class="form__input" type="text" asp-for="staff.Surname" placeholder=" "><br />
+                            <span asp-validation-for="staff.Surname"></span>
+                        </td>
+                        <td><h4>Имя</h4></td>
+                        <td>
+                            <input class="form__input" type="text" asp-for="staff.Name" placeholder=" "><br/>
+                            <span asp-validation-for="staff.Name"></span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><h4>Отчество</h4></td>
+                        <td>
+                            <input asp-for="staff.Firdname" type="text" class="form__input" placeholder=" ">
+                        </td>
+                        <td><h4>Пол</h4></td>
+                        <td>
+                            <select asp-for="staff.Gender">
+                                <option value="True">Мужской</option>
+                                <option value="False">Женский</option>
+                            </select>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td><h4>Должность</h4></td>
+                        <td>
+                            <select asp-for="staff.ID_Doljnost">
+                                @foreach (Doljnost dolj in Model.doljnosts)
+                                {
+                                    <option value="@dolj.ID_Doljnost">@dolj.NameOfDolj</option>
+                                }
+                            </select>
+                        </td>
+                        <td><h4>СНИЛС</h4></td>
+                        <td>
+                            <input type="text" asp-for="staff.Snils" class="form__input" placeholder=" "><br/>
+                            <span asp-validation-for="staff.Snils"></span>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td><h4>ИНН</h4></td>
+                        <td>
+                            <input type="text" asp-for="staff.INN" class="form__input" placeholder=" "><br/>
+                            <span asp-validation-for="staff.INN"></span>
+                        </td>
+                        <td><h4>Серия паспорта</h4></td>
+                        <td>
+                            <input type="text" asp-for="staff.SeriaPass" class="form__input" placeholder=" "><br/>
+                            <span asp-validation-for="staff.SeriaPass"></span>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td><h4>Номер паспорта</h4></td>
+                        <td>
+                            <input type="text" asp-for="staff.NumberPass" class="form__input" placeholder=" "><br/>
+                            <span asp-validation-for="staff.NumberPass"></span>
+                        </td>
+                    </tr>
+
+                </table>
+
+                <button type="submit" class="add_button">Добавить</button>
+            </div>
+        </div>
+    </div>
+</form>

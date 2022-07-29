@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "Добавить вид поезда";
+ }
+@model TypeOfTrain
+<<form asp-action="AddTypeOfTrain" asp-controller="Home" asp-antiforgery="true" method="post">
+    <div class="validation" asp-validation-summary="ModelOnly"></div>
+    <div id="m">
+        <div class="container">
+            <div class="row centered">
+                <h1>Добавление вида поезда</h1>
+                <table>
+                    <tr>
+                        <td><h4>Тип поезда</h4></td>
+                        <td>
+                            <input asp-for="Name" type="text" class="form__input" placeholder=" "><br />
+                            <span asp-validation-for="Name"></span>
+                        </td>
+                        <td><h4>Средняя скорость</h4></td>
+                        <td>
+                            <input asp-for="MaxSpeed" type="text" class="form__input" placeholder=" "><br />
+                            <span asp-validation-for="MaxSpeed"></span>
+                        </td>
+                        <td><h4>Количество вагонов</h4></td>
+                        <td>
+                            <input asp-for="Capacity" type="text" class="form__input" placeholder=" "><br />
+                            <span asp-validation-for="Capacity"></span>
+                        </td>
+                    </tr>
+                </table>
+
+                <button type="submit" class="add_button">Добавить</button>
+            </div>
+        </div>
+    </div>
+</form>

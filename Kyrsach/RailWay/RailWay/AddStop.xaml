@@ -1,0 +1,106 @@
+﻿<Window x:Class="RailWay.AddStop"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RailWay"
+        mc:Ignorable="d"
+        Title="AddStop" Height="550" Width="800" Loaded="Page_Loaded">
+    <Grid Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}">
+        
+
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.3*"/>
+                <RowDefinition Height="0.3*"/>
+                <RowDefinition Height="0.4*"/>
+                <RowDefinition Height="0.4*"/>
+                <RowDefinition Height="0.4*"/>
+                <RowDefinition Height="0.5*"/>
+                <RowDefinition Height="0.4*"/>
+                <RowDefinition Height="0.9*"/>
+                <RowDefinition Height="0.5*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="1.8*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            
+            
+            <Label x:Name="label" Content="Добавление расписания" HorizontalAlignment="Center" VerticalAlignment="Top" Grid.Row="0" Grid.Column="1" FontFamily="Ebrima" FontSize="18"/>
+            
+            <Label Content="Выберите поезд" HorizontalAlignment="Right" VerticalAlignment="Center" Grid.Row="1" Grid.Column="0" FontFamily="Ebrima" FontSize="15" />
+            <Label Content="Выберите маршрут" HorizontalAlignment="Right" VerticalAlignment="Center" Grid.Row="2" Grid.Column="0" FontFamily="Ebrima" FontSize="15" />
+            <ComboBox x:Name="routeBox" HorizontalAlignment="Stretch" VerticalAlignment="Center" Grid.Row="2" Grid.Column="1" Margin="10" FontFamily="Ebrima" FontSize="16" BorderBrush="{DynamicResource {x:Static SystemColors.ControlBrushKey}}"  Background="{DynamicResource {x:Static SystemColors.ControlLightBrushKey}}"/>
+            <ComboBox x:Name="trainBox" HorizontalAlignment="Stretch" VerticalAlignment="Center" Grid.Row="1" Grid.Column="1" Margin="10,0,10,0" FontFamily="Ebrima" FontSize="16" BorderBrush="{DynamicResource {x:Static SystemColors.ControlBrushKey}}"  Background="{DynamicResource {x:Static SystemColors.ControlLightBrushKey}}"/>
+            
+            <Label Content="Время отправления" HorizontalAlignment="Right" VerticalAlignment="Center" Grid.Row="3" Grid.Column="0" FontFamily="Ebrima" FontSize="15" />
+            <Grid Grid.Row="3" Grid.Column="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="40"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="40"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <TextBox x:Name="hourBoxdeparture" HorizontalAlignment="Stretch" MaxLength="2" VerticalAlignment="Center" Margin="10,10,5,10" FontFamily="Ebrima" FontSize="16" Height="25" PreviewTextInput="hourBox_PreviewTextInput"/>
+                <TextBlock Text=":" Grid.Column="1" Margin="0,10,0,10" FontFamily="Ebrima" FontSize="16" VerticalAlignment="Center"/>
+                <TextBox x:Name="minutesBoxdeparture" Grid.Column="2"  HorizontalAlignment="Stretch" MaxLength="2" PreviewTextInput="minutesBox_PreviewTextInput"  VerticalAlignment="Center" Margin="5,10,10,10" FontFamily="Ebrima" FontSize="16" Height="25"/>
+                <DatePicker x:Name="dateStart" Grid.Column="3"/>
+            </Grid>
+
+            <Label Content="Время прибытия" HorizontalAlignment="Right" VerticalAlignment="Center" Grid.Row="4" Grid.Column="0" FontFamily="Ebrima" FontSize="15" />
+            <Grid Grid.Row="4" Grid.Column="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="40"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="40"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <TextBox x:Name="hourBoxarrive" HorizontalAlignment="Stretch" MaxLength="2" VerticalAlignment="Center" Margin="10,10,5,10" FontFamily="Ebrima" FontSize="16" Height="25" PreviewTextInput="hourBox_PreviewTextInput"/>
+                <TextBlock Text=":" Grid.Column="1" Margin="0,10,0,10" FontFamily="Ebrima" FontSize="16" VerticalAlignment="Center"/>
+                <TextBox x:Name="minutesBoxarrive" Grid.Column="2"  HorizontalAlignment="Stretch" MaxLength="2" PreviewTextInput="minutesBox_PreviewTextInput"  VerticalAlignment="Center" Margin="5,10,10,10" FontFamily="Ebrima" FontSize="16" Height="25"/>
+                <DatePicker x:Name="dateEnd" Grid.Column="3"/>
+            </Grid>
+
+            <Label Content="Выберите город остановки" HorizontalAlignment="Right" VerticalAlignment="Center" Grid.Row="5" Grid.Column="0" FontFamily="Ebrima" FontSize="15" />
+            <ComboBox x:Name="citystopBox" HorizontalAlignment="Stretch" SelectionChanged="citystopBox_SelectionChanged" VerticalAlignment="Center" Grid.Row="5" Grid.Column="1" Margin="10" FontFamily="Ebrima" FontSize="16" BorderBrush="{DynamicResource {x:Static SystemColors.ControlBrushKey}}"  Background="{DynamicResource {x:Static SystemColors.ControlLightBrushKey}}"/>
+
+            <Grid Grid.Row="5" Grid.Column="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="0.5*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Label Content="Перрон №" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="0" FontFamily="Ebrima" FontSize="15"/>
+                <ComboBox x:Name="platformBox" HorizontalAlignment="Left" Width="60" VerticalAlignment="Center" Grid.Column="1" FontFamily="Ebrima" FontSize="16" BorderBrush="{DynamicResource {x:Static SystemColors.ControlBrushKey}}"/>
+            </Grid>
+
+            <Label Content="Укажите время остановки" HorizontalAlignment="Right" VerticalAlignment="Center" Grid.Row="6" Grid.Column="0" FontFamily="Ebrima" FontSize="15" />
+            <Button x:Name="addStopBTN" Grid.Row="7" Grid.Column="2" Content="Добавить остановку" HorizontalAlignment="Stretch" VerticalAlignment="Top" Width="145" Height="30" FontFamily="Ebrima" BorderBrush="#FF9C9C9C" Background="{DynamicResource {x:Static SystemColors.ControlLightBrushKey}}"  FontSize="15" Click="addStopBTN_Click"/>
+            <Button x:Name="deleteStopBTN" Grid.Row="7" Grid.Column="2" Content="Удалить остановку" HorizontalAlignment="Stretch" VerticalAlignment="Bottom" Width="145" Height="30" FontFamily="Ebrima" BorderBrush="#FF9C9C9C" Background="{DynamicResource {x:Static SystemColors.ControlLightBrushKey}}"  FontSize="15" Click="deleteStopBTN_Click"/>
+            <Grid Grid.Row="6" Grid.Column="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="40"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="40"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <TextBox x:Name="hourBox" HorizontalAlignment="Stretch" MaxLength="2" VerticalAlignment="Center" Margin="10,10,5,10" FontFamily="Ebrima" FontSize="16" Height="25" PreviewTextInput="hourBox_PreviewTextInput"/>
+                <TextBlock Text=":" Grid.Column="1" Margin="0,10,0,10" FontFamily="Ebrima" FontSize="16" VerticalAlignment="Center"/>
+                <TextBox x:Name="minutesBox" Grid.Column="2"  HorizontalAlignment="Stretch" MaxLength="2" PreviewTextInput="minutesBox_PreviewTextInput"  VerticalAlignment="Center" Margin="5,10,10,10" FontFamily="Ebrima" FontSize="16" Height="25"/>
+                <DatePicker x:Name="dateStop" Grid.Column="3"/>
+            </Grid>
+            <Label Content="Все остановки маршрута" HorizontalAlignment="Right" VerticalAlignment="Center" Grid.Row="7" Grid.Column="0" FontFamily="Ebrima" FontSize="15" />
+            <DataGrid x:Name="stopsGrid" ItemsSource="{Binding}" Grid.Row="7" Grid.Column="1" Margin="10" FontFamily="Ebrima" FontSize="16" BorderBrush="{DynamicResource {x:Static SystemColors.ControlBrushKey}}"  Background="{DynamicResource {x:Static SystemColors.ControlLightBrushKey}}" SelectionMode="Single" IsReadOnly="True">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Id" Binding="{Binding IdCity}" Visibility="Hidden"/>
+                    <DataGridTextColumn Header="Город" Binding="{Binding Name}" Width="Auto"/>
+                    <DataGridTextColumn Header="Перрон" Binding="{Binding Platform}" Width="Auto"/>
+                    <DataGridTextColumn Header="Время остановки" Binding="{Binding Time}" Width="Auto"/>
+                </DataGrid.Columns>
+            </DataGrid>
+            <Button x:Name="addRouteBTN" Grid.Row="8" Grid.Column="1" Content="Добавить расписание" HorizontalAlignment="Center" VerticalAlignment="Center" Width="200" Height="30" FontFamily="Ebrima" BorderBrush="#FF9C9C9C" Background="{DynamicResource {x:Static SystemColors.ControlLightBrushKey}}"  FontSize="15" Click="addTimeTableBTN_Click" />
+        </Grid>
+    </Grid>
+
+    </Window>

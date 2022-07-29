@@ -1,0 +1,170 @@
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\bin\Debug\net5.0\appsettings.Development.json
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\bin\Debug\net5.0\WebRailwayApp.exe
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\bin\Debug\net5.0\WebRailwayApp.deps.json
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\bin\Debug\net5.0\WebRailwayApp.runtimeconfig.json
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\bin\Debug\net5.0\WebRailwayApp.runtimeconfig.dev.json
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\bin\Debug\net5.0\WebRailwayApp.dll
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\bin\Debug\net5.0\ref\WebRailwayApp.dll
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\bin\Debug\net5.0\WebRailwayApp.pdb
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\bin\Debug\net5.0\WebRailwayApp.Views.dll
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\bin\Debug\net5.0\WebRailwayApp.Views.pdb
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\WebRailwayApp.csproj.AssemblyReference.cache
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\WebRailwayApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\WebRailwayApp.AssemblyInfoInputs.cache
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\WebRailwayApp.AssemblyInfo.cs
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\WebRailwayApp.csproj.CoreCompileInputs.cache
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\WebRailwayApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\WebRailwayApp.RazorAssemblyInfo.cache
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\WebRailwayApp.RazorAssemblyInfo.cs
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\scopedcss\bundle\WebRailwayApp.styles.css
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\staticwebassets\WebRailwayApp.StaticWebAssets.Manifest.cache
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\WebRailwayApp.TagHelpers.input.cache
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\WebRailwayApp.TagHelpers.output.cache
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\WebRailwayApp.RazorCoreGenerate.cache
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Auth\Authorization.cshtml.g.cs
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Home\AddCity.cshtml.g.cs
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Home\AddRoute.cshtml.g.cs
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Home\AddStaff.cshtml.g.cs
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Home\AddStaffOfTeam.cshtml.g.cs
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Home\AddStopTimeTable.cshtml.g.cs
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Home\AddTimeTable.cshtml.g.cs
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Home\AddTrain.cshtml.g.cs
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Home\AddTypeOfTrain.cshtml.g.cs
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Home\AddUser.cshtml.g.cs
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Home\InfoStaff.cshtml.g.cs
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Home\InfoTrain.cshtml.g.cs
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Home\InfoTypeOfTrain.cshtml.g.cs
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Home\InfoUser.cshtml.g.cs
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Home\StaffOfTeam.cshtml.g.cs
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Home\TimeTable.cshtml.g.cs
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\WebRailwayApp.RazorTargetAssemblyInfo.cache
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\WebRailwayApp.RazorTargetAssemblyInfo.cs
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\WebRailwayApp.Views.pdb
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\WebRailwayApp.csproj.CopyComplete
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\WebRailwayApp.dll
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\ref\WebRailwayApp.dll
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\WebRailwayApp.pdb
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\WebRailwayApp.genruntimeconfig.cache
+D:\Users\Egor\Downloads\WebRailwayAppNew-master\WebRailwayAppNew-master\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Home\InfoCity.cshtml.g.cs
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\bin\Debug\net5.0\appsettings.Development.json
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\bin\Debug\net5.0\appsettings.json
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\bin\Debug\net5.0\WebRailwayApp.exe
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\bin\Debug\net5.0\WebRailwayApp.deps.json
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\bin\Debug\net5.0\WebRailwayApp.runtimeconfig.json
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\bin\Debug\net5.0\WebRailwayApp.runtimeconfig.dev.json
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\bin\Debug\net5.0\WebRailwayApp.dll
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\bin\Debug\net5.0\WebRailwayApp.pdb
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\bin\Debug\net5.0\WebRailwayApp.Views.dll
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\bin\Debug\net5.0\WebRailwayApp.Views.pdb
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\WebRailwayApp.csproj.AssemblyReference.cache
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\WebRailwayApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\WebRailwayApp.AssemblyInfoInputs.cache
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\WebRailwayApp.AssemblyInfo.cs
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\WebRailwayApp.csproj.CoreCompileInputs.cache
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\WebRailwayApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\WebRailwayApp.RazorAssemblyInfo.cache
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\WebRailwayApp.RazorAssemblyInfo.cs
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\scopedcss\bundle\WebRailwayApp.styles.css
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\staticwebassets\WebRailwayApp.StaticWebAssets.Manifest.cache
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\WebRailwayApp.TagHelpers.input.cache
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\WebRailwayApp.TagHelpers.output.cache
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\WebRailwayApp.RazorCoreGenerate.cache
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Auth\Authorization.cshtml.g.cs
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Home\AddCity.cshtml.g.cs
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Home\AddRoute.cshtml.g.cs
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Home\AddStaff.cshtml.g.cs
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Home\AddStaffOfTeam.cshtml.g.cs
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Home\AddStopTimeTable.cshtml.g.cs
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Home\AddTimeTable.cshtml.g.cs
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Home\AddTrain.cshtml.g.cs
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Home\AddTypeOfTrain.cshtml.g.cs
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Home\AddUser.cshtml.g.cs
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Home\Authorization.cshtml.g.cs
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Home\InfoCity.cshtml.g.cs
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Home\InfoStaff.cshtml.g.cs
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Home\InfoTrain.cshtml.g.cs
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Home\InfoTypeOfTrain.cshtml.g.cs
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Home\InfoUser.cshtml.g.cs
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Home\StaffOfTeam.cshtml.g.cs
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Home\TimeTable.cshtml.g.cs
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\WebRailwayApp.RazorTargetAssemblyInfo.cache
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\WebRailwayApp.RazorTargetAssemblyInfo.cs
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\WebRailwayApp.Views.pdb
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\WebRailwayApp.csproj.CopyComplete
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\WebRailwayApp.dll
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\ref\WebRailwayApp.dll
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\WebRailwayApp.pdb
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\obj\Debug\net5.0\WebRailwayApp.genruntimeconfig.cache
+D:\Users\Egor\Курчас 2.04\WebRailwayApp\WebRailwayApp\bin\Debug\net5.0\ref\WebRailwayApp.dll

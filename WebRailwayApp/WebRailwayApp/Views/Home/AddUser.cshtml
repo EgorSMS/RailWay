@@ -1,0 +1,95 @@
+﻿@{ 
+    ViewData["Title"] = "Добавить пользователя"; 
+ }
+@model userDisplay
+<<form asp-action="AddUser" asp-controller="Home" asp-antiforgery="true" method="post">
+    <div class="validation" asp-validation-summary="ModelOnly"></div>
+    <div id="m">
+        <div class="container">
+            <div class="row centered">
+                <h1>Добавление пользователя</h1>
+                <table>
+                    <tr>
+                        <td><h4>Фамилия</h4></td>
+                        <td>
+                            <input class="form__input" type="text" asp-for="user.Surname" placeholder=" "><br />
+                            <span asp-validation-for="user.Surname"></span>
+                        </td>
+                        <td><h4>Имя</h4></td>
+                        <td>
+                            <input class="form__input" type="text" asp-for="user.Name" placeholder=" "><br />
+                            <span asp-validation-for="user.Name"></span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><h4>Отчество</h4></td>
+                        <td>
+                            <input asp-for="user.Firdname" type="text" class="form__input" placeholder=" ">
+                        </td>
+                        <td><h4>Пол</h4></td>
+                        <td>
+                            <select asp-for="user.Gender">
+                                <option value="True">Мужской</option>
+                                <option value="False">Женский</option>
+                            </select>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td><h4>Роль</h4></td>
+                        <td>
+                            <select asp-for="user.ID_Role">
+                                @foreach (Role role in Model.roles)
+                                {
+                    <option value="@role.ID_Role">@role.NameOfRole</option>
+}
+                            </select>
+                        </td>
+                        <td><h4>СНИЛС</h4></td>
+                        <td>
+                            <input type="text" asp-for="user.Snils" class="form__input" placeholder=" "><br />
+                            <span asp-validation-for="user.Snils"></span>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td><h4>ИНН</h4></td>
+                        <td>
+                            <input type="text" asp-for="user.INN" class="form__input" placeholder=" "><br />
+                            <span asp-validation-for="user.INN"></span>
+                        </td>
+                        <td><h4>Серия паспорта</h4></td>
+                        <td>
+                            <input type="text" asp-for="user.SeriaPass" class="form__input" placeholder=" "><br />
+                            <span asp-validation-for="user.SeriaPass"></span>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td><h4>Номер паспорта</h4></td>
+                        <td>
+                            <input type="text" asp-for="user.NumberPass" class="form__input" placeholder=" "><br />
+                            <span asp-validation-for="user.NumberPass"></span>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td><h4>Логин</h4></td>
+                        <td>
+                            <input type="text" asp-for="user.Login" class="form__input" placeholder=" "><br />
+                            <span asp-validation-for="user.Login"></span>
+                        </td>
+                        <td><h4>Пароль</h4></td>
+                        <td>
+                            <input type="password" asp-for="user.Password" class="form__input" placeholder=" "><br />
+                            <span asp-validation-for="user.Password"></span>
+                        </td>
+                    </tr>
+
+                </table>
+
+                <button type="submit" class="add_button">Добавить</button>
+            </div>
+        </div>
+    </div>
+</form>

@@ -1,0 +1,36 @@
+﻿@{
+	ViewData["Title"] = "Бригады";
+}
+@model BrigadeDisplay
+<form asp-antiforgery="true" method="get">
+    <div id="m">
+        <div class="container">
+            <div class="row centered">
+                <h1>Информация о бригадах</h1>
+                <table>
+                    <tr>
+                        <td>
+                            @foreach (StaffOfTeam brigade in Model.staffOfTeams)
+                             {
+                                <h4 class="label-primary">@($"Бригада №{brigade.ID_SOT}") <a class="alert-dark" href="/Home/DeleteStaffOfTeam?id=@brigade.ID_SOT">Удалить</a></h4>
+                                <p class="label-primary">
+                                    Поезд №@Model.trains.FirstOrDefault(t => t.ID_Train == brigade.ID_Train).NumberOfTrain<br/>
+                                    Состав:<br/>
+                                        @{
+                                            var staff1 = Model.staffs.FirstOrDefault(s => s.ID_Staff == brigade.ID_Staff1);
+                                            var staff2 = Model.staffs.FirstOrDefault(s => s.ID_Staff == brigade.ID_Staff2);
+                                        }
+                                        @($"{staff1.Surname} {staff1.Name} {staff1.Firdname}") - @Model.doljnosts.FirstOrDefault(d => d.ID_Doljnost == staff1.ID_Doljnost).NameOfDolj <br/>
+                                        @($"{staff2.Surname} {staff2.Name} {staff2.Firdname}") - @Model.doljnosts.FirstOrDefault(d => d.ID_Doljnost == staff2.ID_Doljnost).NameOfDolj <br/>
+                                </p>
+                             }
+                        </td>
+                        <td>
+                            <button asp-action="AddStaffOfTeam" class="twice__button">Добавить бригаду</button>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+</form>

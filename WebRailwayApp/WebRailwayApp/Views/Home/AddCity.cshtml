@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Добавить остановку";
+}
+@model Cities 
+<form asp-action="AddCity" asp-controller="Home" asp-antiforgery="true" method="post">
+    <div class="validation" asp-validation-summary="ModelOnly"></div>
+    <div id="m">
+        <div class="container">
+            <div class="row centered">
+                <h1>Добавление остановки</h1>
+                <table>
+                    <tr>
+                        <td><h4>Наименование</h4></td>
+                        <td>
+                            <input asp-for="Name" type="text" class="form__input" placeholder=" "><br />
+                            <span asp-validation-for="Name"></span>
+                        </td>
+                        <td><h4>Количество перронов</h4></td>
+                        <td>
+                            <input asp-for="PlatformCount" type="text" class="form__input" placeholder=" "><br/>
+                            <span asp-validation-for="PlatformCount"></span>
+                        </td>
+                    </tr>
+                </table>
+
+                <button type="submit" class="add_button">Добавить</button>
+            </div>
+        </div>
+    </div>
+</form>

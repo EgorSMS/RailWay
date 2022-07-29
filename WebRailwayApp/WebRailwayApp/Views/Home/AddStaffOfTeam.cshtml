@@ -1,0 +1,48 @@
+﻿@{
+	ViewData["Title"] = "Добавить бригаду";
+}
+@model BrigadeDisplay
+<form asp-action="AddStaffOfTeam" asp-controller="Home" asp-antiforgery="true" method="post">
+    <div class="validation" asp-validation-summary="ModelOnly"></div>
+    <div id="m">
+        <div class="container">
+            <div class="row centered">
+                <h1>Добавление бригады</h1>
+                <table>
+                    <tr>
+                        <td><h4>Номер поезда</h4></td>
+                        <td>
+                            <select asp-for="StaffOfTeam.ID_Train">
+                                @foreach (Train train in Model.trains)
+                                 {
+                                    <option value="@train.ID_Train">@train.NumberOfTrain</option>
+                                 }
+                            </select>
+                        </td>
+                        <td><h4>Первый сотрудник</h4></td>
+                        <td>
+                            <select asp-for="StaffOfTeam.ID_Staff1">
+                                @foreach (staff staf in Model.staffs.Where(s => s.ID_Doljnost == Model.doljnosts.FirstOrDefault(d => d.NameOfDolj == "Машинист").ID_Doljnost).ToList())
+                                 {
+                                    <option value="@staf.ID_Staff">@($"{staf.Surname} {staf.Name} {staf.Firdname}")</option>
+                                 }
+                            </select>
+                        </td>
+                        <td><h4>Второй сотрудник</h4></td>
+                        <td>
+                            <select asp-for="StaffOfTeam.ID_Staff2">
+                                @foreach (staff staf in Model.staffs.Where(s => s.ID_Doljnost == Model.doljnosts.FirstOrDefault(d => d.NameOfDolj == "Помощник машиниста").ID_Doljnost).ToList())
+                                 {
+                                    <option value="@staf.ID_Staff">@($"{staf.Surname} {staf.Name} {staf.Firdname}")</option>
+                                 }
+                            </select>
+                        </td>
+                    </tr>
+
+                </table>
+
+                <button type="submit" class="add_button">Добавить</button>
+            </div>
+        </div>
+    </div>
+</form>

@@ -1,0 +1,33 @@
+﻿@using WebRailwayApp.Models
+@model User
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Авторизация</title>
+    <link rel="stylesheet" href="css/authorization.css">
+</head>
+<body>
+    <form class="form">
+        <h1 class="form__title">Railway</h1>
+        <h4 class="form__name">Авторизация</h4>
+
+        <div class="form__group">
+            <input class="form__input" placeholder=" ">
+            <label class="form__label">Логин</label>
+        </div>
+
+        <div class="form__group">
+            <input class="form__input" placeholder=" ">
+            <label class="form__label">Пароль</label>
+        </div>
+
+        <button class="form__button">Войти</button>
+    </form>
+</body>
+</html>
+

@@ -1,0 +1,35 @@
+﻿<Window x:Class="RailWay.InfoMain"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RailWay"
+        mc:Ignorable="d"
+        Title="InfoMain" Height="450" Width="800"
+        Loaded="Window_Loaded">
+    <Grid Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.5*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Image Source="/Images/ScreenShot_1.png" Grid.Row="0" />
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.45*"/>
+                <RowDefinition Height="0.5*"/>
+                <RowDefinition Height="0.5*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <Label Content="Главная страница Администратора" HorizontalAlignment="Center" VerticalAlignment="Top" Grid.Row="0" Grid.Column="1" FontFamily="Ebrima" FontSize="22"/>
+
+            <Label Content="Навигация по страницам" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="1" Grid.Column="0" FontFamily="Ebrima" FontSize="20" Margin="10"/>
+
+            <ComboBox x:Name="PageBox" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="2" FontFamily="Ebrima" FontSize="16" BorderBrush="{DynamicResource {x:Static SystemColors.ControlBrushKey}}"  Background="{DynamicResource {x:Static SystemColors.ControlLightBrushKey}}" Width="250"/>
+            <Button Grid.Row="3" Grid.Column="1" Content="Перейти" HorizontalAlignment="Left" Margin="150,0,0,0" VerticalAlignment="Center" Width="90" Height="30" FontFamily="Ebrima" BorderBrush="#FF9C9C9C" Background="{DynamicResource {x:Static SystemColors.ControlLightBrushKey}}"  FontSize="15" Click="EnterBTN"/>
+            <Button Grid.Row="3" Grid.Column="1" Content="Выйти" HorizontalAlignment="Right" Margin="0,0,150,0" VerticalAlignment="Center" Width="90" Height="30" FontFamily="Ebrima" BorderBrush="#FF9C9C9C" Background="{DynamicResource {x:Static SystemColors.ControlLightBrushKey}}"  FontSize="15" Click="ExitBTN"/>
+
+        </Grid>
+    </Grid>
+</Window>

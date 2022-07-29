@@ -1,0 +1,58 @@
+﻿@{
+    ViewData["Title"] = "Добавить маршрут";
+}
+@model RouteDisplay
+<h1>Добавление маршрута</h1>
+<form asp-action="AddRoute" asp-controller="Home" asp-antiforgery="true">
+    <div class="validation" asp-validation-summary="ModelOnly"></div>
+    <table>
+        <tr>
+            <td><h4>Отправление из</h4></td>
+            <td>
+                <select asp-for="route.ID_City_Departure">
+                    @foreach (Cities city in Model.cities)
+                    {
+            <option value="@city.ID_City">@($"{city.Name} ({city.PlatformCount} пл.)")</option>}
+                </select>
+                @if (Model.ErrorCities)
+                {
+                    <br><span>Города не могут быть одинаковыми</span>
+                }
+            </td>
+            <td><h4>Перрон №</h4></td>
+            <td>
+                <input asp-for="route.PlatformDeparture" type="number" class="form__input" placeholder=" ">
+                <label class="form__label">Платформа №</label>
+                @if (Model.ErrorDeparturePlatform)
+                {
+            <br><span>Неверный номер платформы</span>  
+                }
+            </td>
+        </tr>
+        <tr>
+            <td><h4>Прибытие в</h4></td>
+            <td>
+                <select asp-for="route.ID_City_Arrival">
+                    @foreach (Cities city in Model.cities)
+                    {
+            <option value="@city.ID_City">@($"{city.Name} ({city.PlatformCount} пл.)")</option>}
+                </select>
+                @if (Model.ErrorCities)
+                {
+                    <br><span>Города не могут быть одинаковыми</span>
+                }
+            </td>
+            <td><h4>Перрон №</h4></td>
+            <td>
+                <input asp-for="route.PlatformArrival" type="number" class="form__input" placeholder=" ">
+                <label class="form__label">Платформа №</label>
+                @if (Model.ErrorArrivePlatform)
+                {
+                    <br> <span>Неверный номер платформы</span>           
+                }
+            </td>
+        </tr>
+    </table>
+    
+<button type="submit" class="add_button">Добавить</button>  
+</form>     

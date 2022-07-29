@@ -1,0 +1,453 @@
+D:\Kyrsach\RailWay\RailWay\bin\Debug\RailWay.exe.config
+D:\Kyrsach\RailWay\RailWay\bin\Debug\RailWay.exe
+D:\Kyrsach\RailWay\RailWay\bin\Debug\RailWay.pdb
+D:\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.AssemblyReference.cache
+D:\Kyrsach\RailWay\RailWay\obj\Debug\MainWindow.g.cs
+D:\Kyrsach\RailWay\RailWay\obj\Debug\App.g.cs
+D:\Kyrsach\RailWay\RailWay\obj\Debug\RailWay_MarkupCompile.cache
+D:\Kyrsach\RailWay\RailWay\obj\Debug\RailWay_MarkupCompile.lref
+D:\Kyrsach\RailWay\RailWay\obj\Debug\MainWindow.baml
+D:\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.g.resources
+D:\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.Properties.Resources.resources
+D:\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.GenerateResource.cache
+D:\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.CoreCompileInputs.cache
+D:\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.exe
+D:\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.pdb
+D:\Kyrsach\RailWay\RailWay\obj\Debug\AddTrain.g.cs
+D:\Kyrsach\RailWay\RailWay\obj\Debug\AddTrain.baml
+D:\Kyrsach\RailWay\RailWay\obj\Debug\AddTypeOfTrain.g.cs
+D:\Kyrsach\RailWay\RailWay\obj\Debug\AddTypeOfTrain.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2\Kyrsach\RailWay\RailWay\bin\Debug\RailWay.exe.config
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2\Kyrsach\RailWay\RailWay\bin\Debug\RailWay.exe
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2\Kyrsach\RailWay\RailWay\bin\Debug\RailWay.pdb
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2\Kyrsach\RailWay\RailWay\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2\Kyrsach\RailWay\RailWay\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\AddTrain.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\AddTypeOfTrain.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\Staff.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\RailWay_MarkupCompile.cache
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\RailWay_MarkupCompile.lref
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\AddTrain.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\AddTypeOfTrain.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\Staff.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.g.resources
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.Properties.Resources.resources
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.CopyComplete
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.exe
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.pdb
+D:\Users\Egor\Downloads\Курчас 2.rar_pass_123\Курчас 2\Kyrsach\RailWay\RailWay\bin\Debug\RailWay.exe.config
+D:\Users\Egor\Downloads\Курчас 2.rar_pass_123\Курчас 2\Kyrsach\RailWay\RailWay\bin\Debug\RailWay.exe
+D:\Users\Egor\Downloads\Курчас 2.rar_pass_123\Курчас 2\Kyrsach\RailWay\RailWay\bin\Debug\RailWay.pdb
+D:\Users\Egor\Downloads\Курчас 2.rar_pass_123\Курчас 2\Kyrsach\RailWay\RailWay\bin\Debug\Newtonsoft.Json.dll
+D:\Users\Egor\Downloads\Курчас 2.rar_pass_123\Курчас 2\Kyrsach\RailWay\RailWay\bin\Debug\Newtonsoft.Json.xml
+D:\Users\Egor\Downloads\Курчас 2.rar_pass_123\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.AssemblyReference.cache
+D:\Users\Egor\Downloads\Курчас 2.rar_pass_123\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\AddTrain.g.cs
+D:\Users\Egor\Downloads\Курчас 2.rar_pass_123\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\AddTypeOfTrain.g.cs
+D:\Users\Egor\Downloads\Курчас 2.rar_pass_123\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\MainWindow.g.cs
+D:\Users\Egor\Downloads\Курчас 2.rar_pass_123\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\Staff.g.cs
+D:\Users\Egor\Downloads\Курчас 2.rar_pass_123\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\App.g.cs
+D:\Users\Egor\Downloads\Курчас 2.rar_pass_123\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\RailWay_MarkupCompile.cache
+D:\Users\Egor\Downloads\Курчас 2.rar_pass_123\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\RailWay_MarkupCompile.lref
+D:\Users\Egor\Downloads\Курчас 2.rar_pass_123\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\AddTrain.baml
+D:\Users\Egor\Downloads\Курчас 2.rar_pass_123\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\AddTypeOfTrain.baml
+D:\Users\Egor\Downloads\Курчас 2.rar_pass_123\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\MainWindow.baml
+D:\Users\Egor\Downloads\Курчас 2.rar_pass_123\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\Staff.baml
+D:\Users\Egor\Downloads\Курчас 2.rar_pass_123\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.g.resources
+D:\Users\Egor\Downloads\Курчас 2.rar_pass_123\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.Properties.Resources.resources
+D:\Users\Egor\Downloads\Курчас 2.rar_pass_123\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.GenerateResource.cache
+D:\Users\Egor\Downloads\Курчас 2.rar_pass_123\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.CoreCompileInputs.cache
+D:\Users\Egor\Downloads\Курчас 2.rar_pass_123\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.CopyComplete
+D:\Users\Egor\Downloads\Курчас 2.rar_pass_123\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.exe
+D:\Users\Egor\Downloads\Курчас 2.rar_pass_123\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.pdb
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\AddStaff.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\AddUser.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\Doljnost.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\InfoMain.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\StaffOfTeam.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\Team.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\AddStaff.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\AddUser.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\Doljnost.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\InfoMain.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\StaffOfTeam.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2\Kyrsach\RailWay\RailWay\obj\Debug\Team.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.01\Kyrsach\RailWay\RailWay\bin\Debug\RailWay.exe.config
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.01\Kyrsach\RailWay\RailWay\bin\Debug\RailWay.exe
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.01\Kyrsach\RailWay\RailWay\bin\Debug\RailWay.pdb
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.01\Kyrsach\RailWay\RailWay\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.01\Kyrsach\RailWay\RailWay\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.01\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.01\Kyrsach\RailWay\RailWay\obj\Debug\AddStaff.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.01\Kyrsach\RailWay\RailWay\obj\Debug\AddTrain.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.01\Kyrsach\RailWay\RailWay\obj\Debug\AddTypeOfTrain.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.01\Kyrsach\RailWay\RailWay\obj\Debug\AddUser.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.01\Kyrsach\RailWay\RailWay\obj\Debug\Doljnost.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.01\Kyrsach\RailWay\RailWay\obj\Debug\InfoMain.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.01\Kyrsach\RailWay\RailWay\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.01\Kyrsach\RailWay\RailWay\obj\Debug\Staff.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.01\Kyrsach\RailWay\RailWay\obj\Debug\StaffOfTeam.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.01\Kyrsach\RailWay\RailWay\obj\Debug\Team.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.01\Kyrsach\RailWay\RailWay\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.01\Kyrsach\RailWay\RailWay\obj\Debug\RailWay_MarkupCompile.cache
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.01\Kyrsach\RailWay\RailWay\obj\Debug\RailWay_MarkupCompile.lref
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.01\Kyrsach\RailWay\RailWay\obj\Debug\AddStaff.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.01\Kyrsach\RailWay\RailWay\obj\Debug\AddTrain.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.01\Kyrsach\RailWay\RailWay\obj\Debug\AddTypeOfTrain.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.01\Kyrsach\RailWay\RailWay\obj\Debug\AddUser.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.01\Kyrsach\RailWay\RailWay\obj\Debug\Doljnost.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.01\Kyrsach\RailWay\RailWay\obj\Debug\InfoMain.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.01\Kyrsach\RailWay\RailWay\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.01\Kyrsach\RailWay\RailWay\obj\Debug\Staff.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.01\Kyrsach\RailWay\RailWay\obj\Debug\StaffOfTeam.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.01\Kyrsach\RailWay\RailWay\obj\Debug\Team.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.01\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.g.resources
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.01\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.Properties.Resources.resources
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.01\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.01\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.01\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.CopyComplete
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.01\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.exe
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.01\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.pdb
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.01\Kyrsach\RailWay\RailWay\obj\Debug\AddRoute.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.01\Kyrsach\RailWay\RailWay\obj\Debug\TimeTable.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.01\Kyrsach\RailWay\RailWay\obj\Debug\AddRoute.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.01\Kyrsach\RailWay\RailWay\obj\Debug\TimeTable.baml
+D:\Users\Egor\Downloads\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.AssemblyReference.cache
+D:\Users\Egor\Downloads\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\AddRoute.g.cs
+D:\Users\Egor\Downloads\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\AddStaff.g.cs
+D:\Users\Egor\Downloads\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\AddStops.g.cs
+D:\Users\Egor\Downloads\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\AddTrain.g.cs
+D:\Users\Egor\Downloads\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\AddTypeOfTrain.g.cs
+D:\Users\Egor\Downloads\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\AddUser.g.cs
+D:\Users\Egor\Downloads\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\Doljnost.g.cs
+D:\Users\Egor\Downloads\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\InfoMain.g.cs
+D:\Users\Egor\Downloads\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\MainWindow.g.cs
+D:\Users\Egor\Downloads\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\Staff.g.cs
+D:\Users\Egor\Downloads\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\StaffOfTeam.g.cs
+D:\Users\Egor\Downloads\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\Team.g.cs
+D:\Users\Egor\Downloads\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\TimeTable.g.cs
+D:\Users\Egor\Downloads\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\App.g.cs
+D:\Users\Egor\Downloads\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\RailWay_MarkupCompile.cache
+D:\Users\Egor\Downloads\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\RailWay_MarkupCompile.lref
+D:\Users\Egor\Downloads\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.exe
+D:\Users\Egor\Downloads\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.pdb
+D:\Users\Egor\Downloads\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\bin\Debug\RailWay.exe.config
+D:\Users\Egor\Downloads\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\bin\Debug\RailWay.exe
+D:\Users\Egor\Downloads\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\bin\Debug\RailWay.pdb
+D:\Users\Egor\Downloads\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\bin\Debug\Newtonsoft.Json.dll
+D:\Users\Egor\Downloads\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\bin\Debug\Newtonsoft.Json.xml
+D:\Users\Egor\Downloads\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\AddRoute.baml
+D:\Users\Egor\Downloads\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\AddStaff.baml
+D:\Users\Egor\Downloads\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\AddTrain.baml
+D:\Users\Egor\Downloads\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\AddTypeOfTrain.baml
+D:\Users\Egor\Downloads\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\AddUser.baml
+D:\Users\Egor\Downloads\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\Doljnost.baml
+D:\Users\Egor\Downloads\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\InfoMain.baml
+D:\Users\Egor\Downloads\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\MainWindow.baml
+D:\Users\Egor\Downloads\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\Staff.baml
+D:\Users\Egor\Downloads\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\StaffOfTeam.baml
+D:\Users\Egor\Downloads\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\Team.baml
+D:\Users\Egor\Downloads\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\TimeTable.baml
+D:\Users\Egor\Downloads\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\AddStops.baml
+D:\Users\Egor\Downloads\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.g.resources
+D:\Users\Egor\Downloads\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.Properties.Resources.resources
+D:\Users\Egor\Downloads\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.GenerateResource.cache
+D:\Users\Egor\Downloads\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.CoreCompileInputs.cache
+D:\Users\Egor\Downloads\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.CopyComplete
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\bin\Debug\RailWay.exe.config
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\bin\Debug\RailWay.exe
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\bin\Debug\RailWay.pdb
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\AddRoute.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\AddStaff.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\AddStops.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\AddTrain.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\AddTypeOfTrain.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\AddUser.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\Doljnost.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\InfoMain.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\Staff.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\StaffOfTeam.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\Team.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\TimeTable.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\RailWay_MarkupCompile.cache
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\RailWay_MarkupCompile.lref
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\AddRoute.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\AddStaff.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\AddStops.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\AddTrain.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\AddTypeOfTrain.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\AddUser.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\Doljnost.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\InfoMain.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\Staff.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\StaffOfTeam.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\Team.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\TimeTable.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.g.resources
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.Properties.Resources.resources
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.CopyComplete
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.exe
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.02 (1)\Курчас 2.02\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.pdb
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\bin\Debug\RailWay.exe.config
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\bin\Debug\RailWay.exe
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\bin\Debug\RailWay.pdb
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\bin\Debug\Newtonsoft.Json.dll
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\bin\Debug\Newtonsoft.Json.xml
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.AssemblyReference.cache
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\AddRoute.g.cs
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\AddStaff.g.cs
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\AddTrain.g.cs
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\AddTypeOfTrain.g.cs
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\AddUser.g.cs
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\Doljnost.g.cs
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\InfoMain.g.cs
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\MainWindow.g.cs
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\Staff.g.cs
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\StaffOfTeam.g.cs
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\TimeTable.g.cs
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\App.g.cs
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\RailWay_MarkupCompile.cache
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\RailWay_MarkupCompile.lref
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\AddRoute.baml
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\AddStaff.baml
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\AddTrain.baml
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\AddTypeOfTrain.baml
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\AddUser.baml
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\Doljnost.baml
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\InfoMain.baml
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\MainWindow.baml
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\Staff.baml
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\StaffOfTeam.baml
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\TimeTable.baml
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.g.resources
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.Properties.Resources.resources
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.GenerateResource.cache
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.CoreCompileInputs.cache
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.CopyComplete
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.exe
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.pdb
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\AddStop.g.cs
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\AddStop.baml
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\UserView.g.cs
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\UserView.baml
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\DoljnostView.g.cs
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\DoljnostView.baml
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\TrainView.g.cs
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\TrainView.baml
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\TeamView.g.cs
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\TypeOfTrainView.g.cs
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\TeamView.baml
+D:\Users\Egor\Downloads\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\TypeOfTrainView.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\bin\Debug\RailWay.exe.config
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\bin\Debug\RailWay.exe
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\bin\Debug\RailWay.pdb
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\AddRoute.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\AddStaff.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\AddStop.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\AddTrain.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\AddTypeOfTrain.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\AddUser.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\Doljnost.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\DoljnostView.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\InfoMain.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\Staff.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\StaffOfTeam.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\TeamView.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\TimeTable.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\TrainView.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\TypeOfTrainView.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\UserView.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\RailWay_MarkupCompile.cache
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\RailWay_MarkupCompile.lref
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\AddRoute.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\AddStaff.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\AddStop.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\AddTrain.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\AddTypeOfTrain.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\AddUser.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\Doljnost.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\DoljnostView.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\InfoMain.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\Staff.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\StaffOfTeam.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\TeamView.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\TimeTable.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\TrainView.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\TypeOfTrainView.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\UserView.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.g.resources
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.Properties.Resources.resources
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.CopyComplete
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.exe
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.03\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.pdb
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\bin\Debug\RailWay.exe.config
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\bin\Debug\RailWay.exe
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\bin\Debug\RailWay.pdb
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\bin\Debug\Newtonsoft.Json.dll
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\bin\Debug\Newtonsoft.Json.xml
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.AssemblyReference.cache
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\AddRoute.g.cs
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\AddStaff.g.cs
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\AddStop.g.cs
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\AddTrain.g.cs
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\AddTypeOfTrain.g.cs
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\AddUser.g.cs
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\Doljnost.g.cs
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\InfoMain.g.cs
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\MainWindow.g.cs
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\Staff.g.cs
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\StaffOfTeam.g.cs
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\TimeTable.g.cs
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\TrainView.g.cs
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\UserView.g.cs
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\App.g.cs
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\RailWay_MarkupCompile.cache
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\RailWay_MarkupCompile.lref
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\AddRoute.baml
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\AddStaff.baml
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\AddStop.baml
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\AddTrain.baml
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\AddTypeOfTrain.baml
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\AddUser.baml
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\Doljnost.baml
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\InfoMain.baml
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\MainWindow.baml
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\Staff.baml
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\StaffOfTeam.baml
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\TimeTable.baml
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\TrainView.baml
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\UserView.baml
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.g.resources
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.Properties.Resources.resources
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.GenerateResource.cache
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.CoreCompileInputs.cache
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.CopyComplete
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.exe
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.pdb
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\AddRoute.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\AddStaff.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\AddStop.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\AddTrain.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\AddTypeOfTrain.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\AddUser.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\Doljnost.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\DoljnostView.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\InfoMain.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\Staff.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\StaffOfTeam.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\StaffTeamView.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\TimeTable.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\TrainView.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\TypeOfTrainView.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\UserView.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\RailWay_MarkupCompile.cache
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\RailWay_MarkupCompile.lref
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.exe
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.pdb
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\bin\Debug\RailWay.exe.config
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\bin\Debug\RailWay.exe
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\bin\Debug\RailWay.pdb
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\AddRoute.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\AddStaff.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\AddStop.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\AddTrain.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\AddTypeOfTrain.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\AddUser.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\Doljnost.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\DoljnostView.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\InfoMain.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\Staff.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\StaffOfTeam.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\StaffTeamView.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\TimeTable.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\TrainView.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\TypeOfTrainView.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\UserView.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.g.resources
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.Properties.Resources.resources
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.CopyComplete
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\AddCity.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\FullCities.g.cs
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\AddCity.baml
+C:\Users\user\Desktop\Работа\$$$\Егор\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\FullCities.baml
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\bin\Debug\RailWay.exe.config
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\bin\Debug\RailWay.exe
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\bin\Debug\RailWay.pdb
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\bin\Debug\Newtonsoft.Json.dll
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\bin\Debug\Newtonsoft.Json.xml
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.AssemblyReference.cache
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\AddCity.g.cs
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\AddRoute.g.cs
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\AddStaff.g.cs
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\AddStop.g.cs
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\AddTrain.g.cs
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\AddTypeOfTrain.g.cs
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\AddUser.g.cs
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\Doljnost.g.cs
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\FullCities.g.cs
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\InfoMain.g.cs
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\MainWindow.g.cs
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\Staff.g.cs
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\StaffOfTeam.g.cs
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\TimeTable.g.cs
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\TrainView.g.cs
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\UserView.g.cs
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\App.g.cs
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\RailWay_MarkupCompile.cache
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\RailWay_MarkupCompile.lref
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\AddCity.baml
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\AddRoute.baml
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\AddStaff.baml
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\AddStop.baml
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\AddTrain.baml
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\AddTypeOfTrain.baml
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\AddUser.baml
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\Doljnost.baml
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\FullCities.baml
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\InfoMain.baml
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\MainWindow.baml
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\Staff.baml
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\StaffOfTeam.baml
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\TimeTable.baml
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\TrainView.baml
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\UserView.baml
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.g.resources
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.Properties.Resources.resources
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.GenerateResource.cache
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.CoreCompileInputs.cache
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.csproj.CopyComplete
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.exe
+D:\Users\Egor\Downloads\Курчас 2.06-20220505T104337Z-001\Курчас 2.06\Kyrsach\RailWay\RailWay\obj\Debug\RailWay.pdb
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\AddCity.g.cs
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\FullCities.g.cs
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\AddCity.baml
+D:\Users\Egor\Курчас 2.04\Kyrsach\RailWay\RailWay\obj\Debug\FullCities.baml

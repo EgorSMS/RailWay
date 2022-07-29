@@ -1,0 +1,85 @@
+﻿@{ ViewData["Title"] = "Добавление расписания"; }
+@model TimeTableDisplay
+
+<form asp-controller="Home" asp-antiforgery="true" method="post">
+    <div class="validation" asp-validation-summary="ModelOnly"></div>
+    <div id="m">
+        <div class="container">
+            <div class="row centered">
+                <h1>Добавление расписания</h1>
+                <table>
+                    <tr>
+                        <td><h4>Поезд</h4></td>
+                        <td>
+                            <select asp-for="timeTable.ID_Train">
+                               @foreach (Train train in Model.trains)
+                               {
+                                   <option value="@train.ID_Train">@train.NumberOfTrain</option>
+                               }
+                            </select>
+                        </td>
+                        <td><h4>Маршрут</h4></td>
+                        <td>
+                            <select asp-for="timeTable.ID_Route">
+                               @foreach (Route route in Model.routes)
+                               {
+                                   <option value="@route.ID_Route">@($"{Model.cities.FirstOrDefault(c => c.ID_City == route.ID_City_Departure).Name} ({route.PlatformDeparture} пл.) -> {Model.cities.FirstOrDefault(c => c.ID_City == route.ID_City_Arrival).Name} ({route.PlatformArrival} пл.)")</option>
+                               }
+                            </select>
+                        </td>
+                        <td>
+                            <input asp-for="timeTable.DateTimeDeparted" type="datetime-local" class="datetime__input" placeholder="Дата и время отправления">
+                            @if(Model.ErrorDateDepartureAlreadyExist)
+                            {
+                                <br><span>Платформа отбытия в это время занята</span>
+                            }
+                        </td>
+                        <td>
+                            <input asp-for="timeTable.DateTimeArrived" type="datetime-local" class="datetime__input" placeholder="Дата и время прибытия">
+                            @if (Model.ErrorDate)
+                            {
+                                <br><span>Дата прибытия не может быть раньше даты отправления</span>
+                            }
+                            @if(Model.ErrorDateArrivalAlreadyExist)
+                            {
+                                <br><span>Платформа прибытия в это время занята</span>
+                            }
+                        </td>
+                        @*<td><h4>Город остановки</h4></td>
+                        <td>
+                            <select asp-for="stopToCheck.ID_City">
+                                @foreach (Cities city in Model.cities)
+                                    {
+                                        <option value="@city.ID_City">@($"{city.Name} ({city.PlatformCount} пл.)")</option>
+                                    }
+                            </select>
+                        </td>
+                        <td><h4>Перрон</h4></td>
+                        <td>
+                            <input asp-for="stopToCheck.Platform" type="number" class="form__input" placeholder=" ">
+                        </td>
+                        <td>
+                            <input asp-for="stopToCheck.TimeOfStop" type="datetime-local" class="datetime__input" placeholder="Дата и время остановки">
+                        </td>
+                        <td><h4>Все остановки в маршруте</h4></td>
+                        <td>
+                            <select multiple asp-for="stopToDeleteNumber">
+                                @foreach (Stop stop in Model.currentStops)
+                                {
+                                    <option value="@stop.ID_Stop">@($"{Model.cities.FirstOrDefault(c => c.ID_City == stop.ID_City).Name} ({stop.Platform} пл.) - {stop.TimeOfStop.ToString("dd.MM.yyyy HH.mm")}")</option>
+                                }
+                            </select>
+                        </td>
+                        <td>
+                            <button asp-action="AddStopTimeTable" class="twice__button">Добавить остановку</button>
+                            <button class="twice__button">Удалить остановку</button>
+                        </td>*@
+                        <td>
+                            <button class="add_button">Добавить расписание</button>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+</form>

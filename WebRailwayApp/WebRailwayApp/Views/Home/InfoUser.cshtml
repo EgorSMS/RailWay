@@ -1,0 +1,28 @@
+﻿@{ ViewData["Title"] = "Информация о пользователях"; }
+@model userDisplay
+
+<form asp-antiforgery="true" method="get">
+    <div id="m">
+        <div class="container">
+            <div class="row centered">
+                <h1>Информация о пользователях</h1>
+                <table>
+                    <tr>
+                        <td>
+                            @foreach (User user in Model.users)
+                             {
+                            <p class="label-primary">
+                                @($"{user.Surname} {user.Name} {user.Firdname}") <a class="alert-dark" href="/Home/DeleteUser?id=@user.ID_User">Удалить</a><br />
+                                @Model.roles.FirstOrDefault(d => d.ID_Role == user.ID_Role).NameOfRole <br />
+                            </p>
+                             }
+                        </td>
+                        <td>
+                            <button asp-action="AddUser" class="twice__button">Добавить пользователя</button>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+</form>

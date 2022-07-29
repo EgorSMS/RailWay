@@ -1,0 +1,26 @@
+﻿@{ ViewData["Title"] = "Информация о поездах"; }
+@model trainDisplay
+
+<form asp-antiforgery="true" method="get">
+    <div id="m">
+        <div class="container">
+            <div class="row centered">
+                <h1>Информация о поездах</h1>
+                <table>
+                    <tr>
+                        <td>
+                            @foreach (Train train in Model.trains)
+                             {
+                                <p class="label-primary">@($"{train.NumberOfTrain} {Model.typeOfTrains.FirstOrDefault(t => t.ID_TypeOfTrain == train.ID_TypeOfTrain).Name}") <a class="alert-dark" href="/Home/DeleteTrain?id=@train.ID_Train">Удалить</a><br /></p>
+                             }
+                        </td>
+
+                        <td>
+                            <button asp-action="AddTrain" class="twice__button">Добавить поезд</button>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+</form>

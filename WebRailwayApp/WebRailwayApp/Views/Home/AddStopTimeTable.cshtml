@@ -1,0 +1,78 @@
+﻿@{
+	ViewData["Title"] = "Изменение остановок расписания";
+}
+@model TimeTableDisplay
+<form asp-controller="Home" asp-antiforgery="true" method="post">
+    <div class="validation" asp-validation-summary="ModelOnly"></div>
+    <div id="m">
+        <div class="container">
+            <div class="row centered">
+                <h1>Редактирование расписания</h1>
+                <table>
+                    <tr>
+                        <td>
+                            <h4>
+                            @{
+                                var route = Model.routes.FirstOrDefault(r => r.ID_Route == Model.timeTable.ID_Route);
+                                    <p class="label-primary">@($"{Model.cities.FirstOrDefault(c => c.ID_City == route.ID_City_Departure).Name}: П.{route.PlatformDeparture} ({Model.timeTable.DateTimeDeparted.ToString("dd.MM.yyyy HH.mm")}) -> {Model.cities.FirstOrDefault(c => c.ID_City == route.ID_City_Arrival).Name}: П.{route.PlatformArrival} ({Model.timeTable.DateTimeArrived.ToString("dd.MM.yyyy HH.mm")}), Поезд №{Model.trains.FirstOrDefault(t => t.ID_Train == Model.timeTable.ID_Train).NumberOfTrain}")</p>
+                            }
+                            </h4>
+                        </td>
+                        <td><h4>Город остановки</h4></td>
+                        <td>
+                            <select asp-for="stopToAdd.ID_City">
+                                @foreach (Cities city in Model.cities)
+                                    {
+                                        <option value="@city.ID_City">@($"{city.Name} ({city.PlatformCount} пл.)")</option>
+                                    }
+                            </select>
+                            @if(Model.ErrorCityAlreadyExist)
+                            {
+                                <br><span>Город уже существует в этом расписании</span>
+                            }
+                        </td>
+                        <td><h4>Перрон</h4></td>
+                        <td>
+                            <input asp-for="stopToAdd.Platform" type="number" class="form__input" placeholder=" "><br />
+                            <span asp-validation-for="stopToAdd.Platform"></span>
+                            @if(Model.ErrorPlatformCity)
+                            {
+                                <br><span>Такой платформы нет у выбранной остановки</span>
+                            }
+                        </td>
+                        <td>
+                            <input asp-for="stopToAdd.TimeOfStop" type="datetime-local" class="datetime__input" placeholder="Дата и время остановки">
+                            @if(Model.ErrorDateAlreadyExist)
+                            {
+                                <br><span>Платформа в это время занята</span>
+                            }
+                            @if(Model.ErrorDateStop)
+                            {
+                                <br><span>Время остановки не может быть раньше времени отправления или позже времени прибытия</span>
+                            }
+                            
+                            @if (Model.ErrorDateStopAlreadyExist)
+                            {
+                                <br><span>На это время уже есть остановка</span>
+                            }
+                        </td>
+                        <td>
+                            <button asp-route-id="@Model.timeTable.ID_TimeTable" asp-action="AddStopTimeTable" class="twice__button">Добавить остановку</button>
+                        </td>
+                        <td><h4>Все остановки в маршруте</h4></td>
+                        <td>
+                           @foreach (Stops stop in Model.stops)
+                           {
+                                if (stop.ID_TimeTable == Model.timeTable.ID_TimeTable)
+                                {
+                                    <p class="label-primary">@($"{Model.cities.FirstOrDefault(c => c.ID_City == stop.ID_City).Name}: П.{stop.Platform} ({stop.TimeOfStop.ToString("dd.MM.yyyy HH.mm")})")</p><br/>
+                                }
+                           }
+                        </td>
+                        <td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+</form>

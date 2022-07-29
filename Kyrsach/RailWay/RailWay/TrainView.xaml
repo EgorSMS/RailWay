@@ -1,0 +1,43 @@
+﻿<Window x:Class="RailWay.TrainView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RailWay"
+        mc:Ignorable="d"
+        Title="TrainView" Height="450" Width="800">
+    <Grid Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.5*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Image Source="/Images/ScreenShot_1.png" Grid.Row="0" />
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.6*"/>
+                <RowDefinition Height="0.6*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="1.6*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Label Content="Информация о поездах" HorizontalAlignment="Center" VerticalAlignment="Top" Grid.Row="0" Grid.Column="1" FontFamily="Ebrima" FontSize="22"/>
+            <Button x:Name="deleteBTN" Grid.Row="1" Grid.Column="0" Content="Удалить" HorizontalAlignment="Center" Margin="10" VerticalAlignment="Center" Width="90" Height="31" FontFamily="Ebrima" BorderBrush="#FF9C9C9C" Background="{DynamicResource {x:Static SystemColors.ControlLightBrushKey}}"  FontSize="15" Click="deleteBTN_Click" />
+            <Button x:Name="exitBTN" Grid.Row="1" Grid.Column="2" Content="Выйти" HorizontalAlignment="Center" Margin="10" VerticalAlignment="Center" Width="90" Height="31" FontFamily="Ebrima" BorderBrush="#FF9C9C9C" Background="{DynamicResource {x:Static SystemColors.ControlLightBrushKey}}"  FontSize="15" Click="exitBTN_Click" />
+            <Button x:Name="addTrainBTN" Grid.Row="1" Grid.Column="1" Content="Добавить поезд" HorizontalAlignment="Center" Margin="10" VerticalAlignment="Center" Width="170" Height="31" FontFamily="Ebrima" BorderBrush="#FF9C9C9C" Background="{DynamicResource {x:Static SystemColors.ControlLightBrushKey}}"  FontSize="15" Click="addTrainBTN_Click"  />
+
+            <DataGrid x:Name="trainGrid" HorizontalAlignment="Center" VerticalAlignment="Stretch" SelectionMode="Single" SelectionUnit="FullRow" Grid.Row="2" Grid.Column="1">
+                <DataGrid.Columns>
+                    <DataGridTextColumn x:Name="id" Header="Код" IsReadOnly="True" Width="40" Binding="{Binding Id}"/>
+                    <DataGridTextColumn x:Name="typeOfTrain" Header="Тип поезда" IsReadOnly="True" Width="*" Binding="{Binding Surname}"/>
+                    <DataGridTextColumn x:Name="numberOfTrain" Header="Номер поезда" IsReadOnly="True" Width="*" Binding="{Binding Name}"/>
+                </DataGrid.Columns>
+            </DataGrid>
+
+        </Grid>
+    </Grid>
+</Window>
